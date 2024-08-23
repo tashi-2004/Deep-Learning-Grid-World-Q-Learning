@@ -62,7 +62,7 @@ https://github.com/user-attachments/assets/5a1f35c8-bd06-43cc-97d9-961f69286a54
 ## Contributing
 
 - Tashfeen Abbasi (abbasitashfeen7@gmail.com)
-- [Laiba Mazhar](https://github.com/laiba-mazhar) ()
+- [Laiba Mazhar](https://github.com/laiba-mazhar) (laibamazhar.000@gmail.com)
 
 Feel free to fork the repository and submit pull requests. For issues or feature requests, please open an issue on GitHub.
 

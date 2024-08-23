@@ -49,6 +49,9 @@ The grid world consists of a 5x5 grid with:
 
 <img width="959" alt="ary1" src="https://github.com/user-attachments/assets/6d36f435-46f1-45e9-8215-321e7c8f54f6">
 
+### Output Video
+
+https://github.com/user-attachments/assets/5a1f35c8-bd06-43cc-97d9-961f69286a54
 
 ## Notes
 

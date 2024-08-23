@@ -18,10 +18,9 @@ This repository contains an implementation of a Q-learning algorithm to solve a 
 1. **Run the Deep Learning Q-learning Agent**
 
    Execute the script to train the Q-learning agent with different learning rates (`alpha_values`). The training process includes visualization of the agent's movement in the grid world and updates to the Q-values.
+   
 
-    python deep_learning_grid_world_q_learning.py
-
-2. **Visualize Q-values**
+3. **Visualize Q-values**
 
    After training, the Q-values are visualized to show the learned state values.
 
@@ -62,8 +61,8 @@ https://github.com/user-attachments/assets/5a1f35c8-bd06-43cc-97d9-961f69286a54
 
 ## Contributing
 
-- Tashfeen Abbasi
-- [Laiba Mazhar](https://github.com/laiba-mazhar)
+- Tashfeen Abbasi (abbasitashfeen7@gmail.com)
+- [Laiba Mazhar](https://github.com/laiba-mazhar) ()
 
 Feel free to fork the repository and submit pull requests. For issues or feature requests, please open an issue on GitHub.
 

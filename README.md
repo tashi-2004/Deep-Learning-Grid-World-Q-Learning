@@ -31,7 +31,7 @@ This repository contains an implementation of a Q-learning algorithm to solve a 
 The grid world consists of a 5x5 grid with:
 - **Obstacles**: Cells that are blocked and cannot be traversed.
 - **Rewards**: Cells that provide rewards (+5 or +10).
-- **Goal**: The cell at (4, 4) where the agent receives a reward of +10 and the episode terminates.
+- **Goal**: The cell at (5, 5) where the agent receives a reward of +10 and the episode terminates.
 
 ### Deep Q-learning Algorithm
 
